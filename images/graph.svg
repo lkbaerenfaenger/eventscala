@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 310.24194 270"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="graph.svg"
+   width="310.24194"
+   height="270">
+  <metadata
+     id="metadata206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview204"
+     showgrid="false"
+     inkscape:zoom="1.3350176"
+     inkscape:cx="-235.93136"
+     inkscape:cy="-32.472382"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <pattern
+       id="pattern-0"
+       x="0"
+       y="0"
+       width="20"
+       height="20"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 100 100">
+      <path
+         d="M 0 0 L 50 0 L 50 100 L 0 100 Z"
+         style="fill: black;"
+         id="path7" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs123">
+    <style
+       id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <path
+     style="fill:none;stroke:#000000"
+     id="path126"
+     d=""
+     inkscape:connector-curvature="0" />
+  <path
+     d="M -824.4152,676.51237 Z"
+     style="fill:none;stroke:#000000"
+     id="path132"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M -821.2082,657.27437"
+     style="fill:none;stroke:#000000"
+     id="path134"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M -866.0972,649.25837 Z"
+     style="fill:none;stroke:#000000"
+     id="path136"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3610"
+     transform="translate(-1151.4764,107.44662)">
+    <circle
+       cx="1306.5973"
+       cy="-72.446617"
+       style="fill:#d8d8d8"
+       id="ellipse140"
+       r="35" />
+    <path
+       d="m 1306.5973,-37.446616 0,30"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path142"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="1306.5973"
+       cy="27.553385"
+       style="fill:#d8d8d8"
+       id="ellipse144"
+       r="35" />
+    <circle
+       cx="1406.5973"
+       cy="127.55338"
+       style="fill:#d8d8d8"
+       id="ellipse146"
+       r="35" />
+    <path
+       d="m 1331.5973,52.553384 c 17.995,17.707 33.892,34.567 50,49.999996"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path148"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="127.55301"
+       cy="-1206.5975"
+       style="fill:#d8d8d8"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="ellipse150"
+       r="35" />
+    <path
+       d="m 1281.5973,52.5524 c -17.707,17.995 -34.567,33.892 -50,50"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path152"
+       inkscape:connector-curvature="0" />
+    <text
+       x="1267.1324"
+       y="32.029945"
+       style="font-weight:bold;font-size:16px;white-space:pre"
+       id="text154">JoinNode</text>
+    <text
+       x="1150.328"
+       y="133.51785"
+       style="font-weight:bold;font-size:16px;white-space:pre"
+       id="text156">StreamNode</text>
+    <text
+       x="1350.3278"
+       y="133.51822"
+       style="font-weight:bold;font-size:16px;white-space:pre"
+       id="text158">StreamNode</text>
+    <text
+       x="1239.0739"
+       y="-68.032555"
+       style="font-weight:bold;font-size:16px;white-space:pre"
+       id="text160">DropElemNode</text>
+  </g>
+</svg>

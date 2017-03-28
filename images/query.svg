@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 315.95093 270.00003"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="query.svg"
+   width="315.95093"
+   height="270.00003">
+  <metadata
+     id="metadata206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview204"
+     showgrid="false"
+     inkscape:zoom="1.3350176"
+     inkscape:cx="364.41787"
+     inkscape:cy="2.6285966"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <pattern
+       id="pattern-0"
+       x="0"
+       y="0"
+       width="20"
+       height="20"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 100 100">
+      <path
+         d="M 0 0 L 50 0 L 50 100 L 0 100 Z"
+         style="fill: black;"
+         id="path7" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs123">
+    <style
+       id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <path
+     style="fill:none;stroke:#000000"
+     id="path126"
+     d=""
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 613.80241,380.54264 Z"
+     style="fill:none;stroke:#000000"
+     id="path132"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 617.00941,361.30464"
+     style="fill:none;stroke:#000000"
+     id="path134"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 572.12041,353.28864 Z"
+     style="fill:none;stroke:#000000"
+     id="path136"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3460"
+     transform="translate(39.553411,58.664637)">
+    <path
+       id="path13"
+       style="fill:none;stroke:#000000"
+       d="M 180.85946,155.72064 Z"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="99.917038"
+       cy="-23.664637"
+       style="fill:#d8d8d8"
+       id="ellipse93"
+       r="35" />
+    <path
+       d="m 99.91703,11.33537 0,30"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path95"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="99.917038"
+       cy="76.335373"
+       style="fill:#d8d8d8"
+       id="ellipse97"
+       r="35" />
+    <circle
+       cx="199.91704"
+       cy="176.33539"
+       style="fill:#d8d8d8"
+       id="ellipse99"
+       r="35" />
+    <path
+       d="m 124.91703,101.33537 c 17.995,17.707 33.892,34.567 50,50"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path101"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="176.33527"
+       cy="0.08270815"
+       style="fill:#d8d8d8"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="ellipse103"
+       r="35" />
+    <path
+       d="m 74.917,101.33541 c -17.707,17.995 -34.567,33.892 -50,50"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path105"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-77.15254,-140.39733)"
+       id="g3532">
+      <text
+         id="text109"
+         style="font-weight:bold;font-size:16px;white-space:pre"
+         y="312.31171"
+         x="45.577644">stream</text>
+      <text
+         id="text113"
+         style="font-size:14px;white-space:pre"
+         y="329.47574"
+         x="36.812996">Query1[Int]</text>
+    </g>
+    <g
+       transform="translate(-77.15254,-139.91679)"
+       id="g3528">
+      <text
+         id="text107"
+         style="font-weight:bold;font-size:16px;white-space:pre"
+         y="212.26973"
+         x="161.26489">join</text>
+      <text
+         id="text115"
+         style="font-size:14px;white-space:pre"
+         y="229.47873"
+         x="86.090088">Query3[Int, String, String]</text>
+    </g>
+    <g
+       transform="translate(-77.15254,-140.40071)"
+       id="g3536">
+      <text
+         id="text111"
+         style="font-weight:bold;font-size:16px;white-space:pre"
+         y="312.32074"
+         x="245.57739">stream</text>
+      <text
+         id="text117"
+         style="font-size:14px;white-space:pre"
+         y="329.47372"
+         x="199.80298">Query2[String, String]</text>
+    </g>
+    <g
+       transform="translate(-77.15254,-139.9418)"
+       id="g3524">
+      <text
+         id="text119"
+         style="font-weight:bold;font-size:16px;white-space:pre"
+         y="112.32074"
+         x="128.87427">dropElem3</text>
+      <text
+         id="text121"
+         style="font-size:14px;white-space:pre"
+         y="129.47772"
+         x="111.45142">Query2[Int, String]</text>
+    </g>
+    <path
+       id="path128"
+       style="fill:none;stroke:#000000"
+       d="M 116.34746,-43.31936"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path130"
+       style="fill:none;stroke:#000000"
+       d="M 166.04546,-39.31236 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path202"
+       style="fill:none;stroke:#000000"
+       d="M 120.26546,57.29464 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

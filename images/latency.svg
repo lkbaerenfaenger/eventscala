@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 375.83337 370.35312"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="latency.svg"
+   width="375.83337"
+   height="370.35312">
+  <metadata
+     id="metadata206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview204"
+     showgrid="false"
+     inkscape:zoom="1.3350176"
+     inkscape:cx="279.20543"
+     inkscape:cy="209.2631"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <pattern
+       id="pattern-0"
+       x="0"
+       y="0"
+       width="20"
+       height="20"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 100 100">
+      <path
+         d="M 0 0 L 50 0 L 50 100 L 0 100 Z"
+         style="fill: black;"
+         id="path7" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs123">
+    <style
+       id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <path
+     style="fill:none;stroke:#000000"
+     id="path126"
+     d=""
+     inkscape:connector-curvature="0" />
+  <path
+     d="M -309.27841,565.09217 Z"
+     style="fill:none;stroke:#000000"
+     id="path132"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M -306.07141,545.85417"
+     style="fill:none;stroke:#000000"
+     id="path134"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M -350.96041,537.83817 Z"
+     style="fill:none;stroke:#000000"
+     id="path136"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3623"
+     transform="translate(-1484.2686,52.954506)">
+    <circle
+       cx="1625.0709"
+       cy="-17.954506"
+       style="fill:#d8d8d8"
+       id="ellipse164"
+       r="35" />
+    <path
+       d="m 1625.0709,17.045494 0,30"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path166"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="1625.0709"
+       cy="82.045494"
+       style="fill:#d8d8d8"
+       id="ellipse168"
+       r="35" />
+    <circle
+       cx="1725.0709"
+       cy="182.04549"
+       style="fill:#d8d8d8"
+       id="ellipse170"
+       r="35" />
+    <path
+       d="m 1650.0709,107.04549 c 17.995,17.707 33.892,34.567 50,50"
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path172"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="182.04562"
+       cy="-1525.0706"
+       style="fill:#d8d8d8"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="ellipse174"
+       r="35" />
+    <path
+       d="m 1600.0709,107.04553 c -17.707,17.995 -34.567,33.892 -50,50"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path176"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="1825.1019"
+       cy="282.3985"
+       style="fill:#d8d8d8"
+       id="ellipse178"
+       r="35" />
+    <path
+       d="m 1750.1019,207.39849 c 17.995,17.707 33.892,34.567 50,50"
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path180"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="282.39862"
+       cy="-1525.0708"
+       style="fill:#d8d8d8"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="ellipse182"
+       r="35" />
+    <path
+       d="m 1525.0709,217.23349 0,30"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path184"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="1625.0709"
+       cy="282.3985"
+       style="fill:#d8d8d8"
+       id="ellipse186"
+       r="35" />
+    <path
+       d="m 1700.1019,207.0455 c -17.707,17.995 -34.567,33.892 -50,50"
+       style="fill:none;stroke:#929292;stroke-width:3"
+       id="path188"
+       inkscape:connector-curvature="0" />
+    <text
+       x="1618.9108"
+       y="87.877525"
+       style="font-weight:bold;font-size:16px;white-space:pre"
+       id="text190">X</text>
+    <text
+       x="1535.2794"
+       y="127.93549"
+       style="font-size:14px;white-space:pre"
+       id="text192">1 ms</text>
+    <text
+       x="1778.7234"
+       y="226.05287"
+       style="font-size:14px;white-space:pre"
+       id="text194">3 ms</text>
+    <text
+       x="1482.7305"
+       y="237.2374"
+       style="font-size:14px;white-space:pre"
+       id="text196">1 ms</text>
+    <text
+       x="1681.278"
+       y="127.93549"
+       style="font-size:14px;white-space:pre"
+       id="text198">1 ms</text>
+    <text
+       x="1636.9409"
+       y="225.96059"
+       style="font-size:14px;white-space:pre"
+       id="text200">1 ms</text>
+  </g>
+</svg>
