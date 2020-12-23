@@ -3,7 +3,7 @@
 > These might be referenced within this repository.
 > Note that my current GitHub account is `@lkbaerenfaenger` and my current domain is `lkbaerenfaenger.com`.**
 
-# bachelors-thesis-eventscala
+# eventscala-bachelors-thesis
 
 **A Type-Safe, Distributed and Quality-of-Service-oriented Approach to Event Processing**
 
